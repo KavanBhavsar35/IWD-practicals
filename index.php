@@ -45,6 +45,12 @@
     <a href="pr7-09.php">Practical 7(9)</a><br>
     <a href="pr7-10.php">Practical 7(10)</a><br>
     <a href="pr7-11.php">Practical 7(11)</a><br>
+    <a href="pr8-01.php">Practical 8(1)</a><br>
+    <a href="pr8-02.php">Practical 8(2)</a><br>
+    <a href="pr8-03.php">Practical 8(3)</a><br>
+    <a href="pr8-04.php">Practical 8(4)</a><br>
+    <a href="pr9-01.php">Practical 9(1)</a><br>
+    <a href="pr9-02.php">Practical 9(2)</a><br>
 </body>
 
 </html>
