@@ -20,7 +20,7 @@
 </html>
 <?php 
 session_start();
-if (isset($_SESSION['name']) && isset($_SESSION['age'])) {
+if (isset($_SESSION['name'])) {
     echo "Name : " . $_SESSION['name'] . "<br>";
 }
 ?>
