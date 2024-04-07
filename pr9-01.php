@@ -12,10 +12,6 @@
     <form method="post" action="pr9-01p2.php">
         <label for="name">Name:</label><br>
         <input type="text" id="name" name="name" required><br><br>
-
-        <label for="age">Age:</label><br>
-        <input type="number" id="age" name="age" required><br><br>
-
         <input type="submit" value="Go to Page 2">
     </form>
 
@@ -26,6 +22,5 @@
 session_start();
 if (isset($_SESSION['name']) && isset($_SESSION['age'])) {
     echo "Name : " . $_SESSION['name'] . "<br>";
-    echo "Age : " . $_SESSION['age'];
 }
 ?>
