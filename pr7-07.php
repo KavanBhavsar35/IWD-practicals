@@ -17,6 +17,6 @@ class ChildClass extends ParentClass
 
 $parentObj = new ParentClass();
 $childObj = new ChildClass();
-$parentObj->methodA(); // Output: This is the method from ParentClass
-$childObj->methodA(); // Output: This is the method from ChildClass
+$parentObj->methodA();
+$childObj->methodA();
 ?>
