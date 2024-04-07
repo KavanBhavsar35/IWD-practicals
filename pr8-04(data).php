@@ -12,10 +12,8 @@
     <?php
     if (isset($_POST['name']) && isset($_POST['age'])) {
         $name = $_POST['name'];
-        $age = $_POST['age'];
 
         echo "<p>Name: $name</p>";
-        echo "<p>Age: $age</p>";
     } else {
         echo "<p>No information received!</p>";
     }
