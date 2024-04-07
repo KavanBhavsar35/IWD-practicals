@@ -11,7 +11,6 @@
 
     <form method="post" action="pr8-04(data).php">
         <input type="hidden" name="name" value="ABC">
-        <input type="hidden" name="age" value="69">
         <input type="submit" value="Go to Page 2">
     </form>
 
