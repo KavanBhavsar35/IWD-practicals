@@ -12,10 +12,8 @@
     <?php
     if (isset($_GET['name']) && isset($_GET['age'])) {
         $name = $_GET['name'];
-        $age = $_GET['age'];
 
         echo "<p>Name: $name</p>";
-        echo "<p>Age: $age</p>";
     } else {
         echo "<p>No information received!</p>";
     }
