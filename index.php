@@ -55,6 +55,7 @@
     <a href="pr10-02.php">Practical 10(2)</a><br>
     <a href="pr10-03.php">Practical 10(3)</a><br>
     <a href="pr10-04.php">Practical 10(4)</a><br>
+    <a href="pr10-05.php">Practical 10(5)</a><br>
 </body>
 
 </html>
