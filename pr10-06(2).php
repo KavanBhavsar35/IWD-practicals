@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($result->num_rows > 0) {
         $row = $result->fetch_assoc();
         $stored_password = trim($row['password']);
-        
+
         if ($current_password == $stored_password) {
             $update_sql = "UPDATE users SET password = '$new_password' WHERE username = '$username'";
 

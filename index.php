@@ -1,4 +1,5 @@
-oo<!DOCTYPE html>
+oo
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -59,6 +60,7 @@ oo<!DOCTYPE html>
     <a href="pr11-01.php">Practical 11(1)</a><br>
     <a href="pr11-02.php">Practical 11(2)</a><br>
     <a href="pr11-03.php">Practical 11(3)</a><br>
+    <a href="pr12.php">Practical 12</a><br>
 </body>
 
 </html>
