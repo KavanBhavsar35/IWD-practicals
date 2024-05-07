@@ -34,7 +34,7 @@
                     echo "<td>{$row['age']}</td>";
                     echo "<td>{$row['city']}</td>";
                     echo "<td>{$row['email']}</td>";
-                    echo "<td><a href='pr12(3).php?id={$row['id']}'>Edit</a></td>";
+                    echo "<td><a href='pr12(4).php?id={$row['id']}'>Edit</a></td>";
                     echo "</tr>";
                 }
             } else {
